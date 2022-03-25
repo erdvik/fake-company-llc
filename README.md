@@ -1,2 +1,3 @@
 # fake-company-llc
-codecademy html/css flexbox project
+
+In this codecadmy project I am making a fake company website with focus on flexbox.
